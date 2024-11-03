@@ -6,3 +6,4 @@ export/*
 *.txt
 !requirements.txt
 !wikiaudify/music.mp3
+!data/*

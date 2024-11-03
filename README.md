@@ -6,6 +6,11 @@ By [Hay Kranen](http://www.haykranen.nl)
 ## Introduction
 This was a hackathon project made during the [Wikimedia NL Mini Hackathon 2024](https://nl.wikimedia.org/wiki/Mini_Hackathon_November_2024) to generate audio summaries like the ones from [NotebookLM](https://blog.google/technology/ai/notebooklm-audio-overviews/). Obviously it's not as good as that one, but it makes quite enjoyable fun short audio conversations.
 
+Here's an example of a generated audio summary about the article on [Grilled cheese](https://en.wikipedia.org/wiki/Grilled_cheese).
+<audio src="data/grilled_cheese.mp3" controls></audio>
+
+And you can find a <a href="data/grilled_cheese.txt">transcription here</a>.
+
 ## Install
 What you'll need:
 * An [OpenAI API key](https://openai.com/api/)
