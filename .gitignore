@@ -1,0 +1,7 @@
+env
+*.toml
+!example-config.toml
+export/*
+*.mp3
+*.txt
+!requirements.txt

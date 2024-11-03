@@ -1,0 +1,21 @@
+# You'll probably don't want to check this file in Git because of the api keys here!
+[tts]
+api_key = "<your key>"
+host_voice_id = "<voice id here>"
+guest_voice_id = "<guest id here>"
+
+[llm]
+chatgpt_model = "gpt-4o"
+openai_api_key = "<your key>"
+# 'external' for OpenAI ChatGPT or 'internal' for an OpenAI-compatible API
+# like the one in LM Studio
+llm_type = "external"
+base_url = "http://localhost:1234/v1"
+
+[summary]
+host_name = "Lex van Meer"
+guest_name = "Sylvia de Vries"
+language = "en"
+question_count = 3
+background_music_path = "./wikiaudify/music.mp3"
+speech_start = 6000
