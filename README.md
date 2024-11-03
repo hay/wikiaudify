@@ -1,5 +1,6 @@
 # wikiaudify
 > Generate audio summaries of Wikipedia articles using OpenAI and ElevenLabs
+By [Hay Kranen](http://www.haykranen.nl)
 
 ## Introduction
 This was a hackathon project made during the [Wikimedia NL Mini Hackathon 2024](https://nl.wikimedia.org/wiki/Mini_Hackathon_November_2024) to generate audio summaries like the ones from [NotebookLM](https://blog.google/technology/ai/notebooklm-audio-overviews/). Obviously it's not as good as that one, but it makes quite enjoyable fun short audio conversations.
